@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Guid": "b1f7d2a4-6e39-4c80-9a15-7d2f4e8b603c",
+  "Name": "New Turret Modification",
+  "Description": "Needs Bingus Shared Loader v15 or newer with addon support enabled. Nothing else is required: 'API 1' is the loader's own Lua API level (printed in BingusSharedLoader.log), not a separate mod.",
+  "Options": [
+    {
+      "Name": "New Turret Modification",
+      "Description": "Needs Bingus Shared Loader v15 or newer with addon support enabled. Nothing else is required: 'API 1' is the loader's own Lua API level (printed in BingusSharedLoader.log), not a separate mod.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Guid": "8f3c1d72-5a4e-4b90-9c6f-2d7e10b4a551",
+  "Name": "Turret Free Cooldown",
+  "Description": "Needs Bingus Shared Loader v15 or newer with addon support enabled. Nothing else is required: 'API 1' is the loader's own Lua API level (printed in BingusSharedLoader.log), not a separate mod.",
+  "Options": [
+    {
+      "Name": "Turret Free Cooldown",
+      "Description": "Needs Bingus Shared Loader v15 or newer with addon support enabled. Nothing else is required: 'API 1' is the loader's own Lua API level (printed in BingusSharedLoader.log), not a separate mod.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ]
+}
