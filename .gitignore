@@ -39,3 +39,11 @@ luac.out
 *.x86_64
 *.hex
 
+/.vscode
+/.cursor/skills/
+/CMakeLists.txt
+/.idea
+/build
+.cache
+/.clangd
+/.history
